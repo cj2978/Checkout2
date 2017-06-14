@@ -13,6 +13,8 @@ namespace CheckoutLogic
 
         public static void ScanItem(string item)
         {
+            _items = new Dictionary<char, int>();
+
             foreach (var character in item)
             {
                 if (_items.ContainsKey(character))
