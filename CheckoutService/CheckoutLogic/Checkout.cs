@@ -13,8 +13,6 @@ namespace CheckoutLogic
 
         public static void ScanItem(string item)
         {
-            _items = new Dictionary<char, int>();
-
             foreach (var character in item)
             {
                 if (_items.ContainsKey(character))
@@ -40,6 +38,8 @@ namespace CheckoutLogic
             {
                 total = total + GetItemTotal(key.ToString(), _items[key]);
             }
+
+            _items = new Dictionary<char, int>();
 
             return total;
         }

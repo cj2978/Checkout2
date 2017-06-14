@@ -103,7 +103,7 @@ namespace CheckoutTests
         [TestCase("BBD", 60)]
         [TestCase("CD", 35)]
         [TestCase("ABABA", 175)]
-        [TestCase("CABCBDA", 195)]
+        [TestCase("CABCBDA", 200)]
         [TestCase("DDABACAD", 225)]
         public void TestCalculateMixedSKUTotalPrice(string scanValues, int expectedResult)
         {
