@@ -22,5 +22,12 @@ namespace CheckoutLogic
                 }
             }
         }
+
+        public static int GetTotal()
+        {
+            var total = 0;
+
+            return total;
+        }
     }
 }

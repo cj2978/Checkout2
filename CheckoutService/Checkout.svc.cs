@@ -14,7 +14,7 @@ namespace CheckoutService
 
         public int GetTotalPrice()
         {
-            throw new NotImplementedException();
+            return Checkout.GetTotal();
         }
     }
 }
