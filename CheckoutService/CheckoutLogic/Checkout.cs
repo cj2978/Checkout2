@@ -1,12 +1,26 @@
-﻿using System;
+﻿using System.Collections.Generic;
 
 namespace CheckoutLogic
 {
-    public class Checkout
+    public static class Checkout
     {
+        private static Dictionary<char, int> _items = new Dictionary<char, int>();
+
         public static void ScanItem(string item)
         {
-            throw new NotImplementedException();
+            foreach (var character in item)
+            {
+                if (_items.ContainsKey(character))
+                {
+                    var currentItems = _items[character];
+                    currentItems++;
+                    _items[character] = currentItems;
+                }
+                else
+                {
+                    _items.Add(character, 1);
+                }
+            }
         }
     }
 }
