@@ -1,0 +1,5 @@
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\CheckoutLogic\bin\Debug\CheckoutLogic.dll
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\CheckoutLogic\bin\Debug\CheckoutLogic.pdb
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\CheckoutLogic\obj\Debug\CheckoutLogic.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\CheckoutLogic\obj\Debug\CheckoutLogic.dll
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\CheckoutLogic\obj\Debug\CheckoutLogic.pdb

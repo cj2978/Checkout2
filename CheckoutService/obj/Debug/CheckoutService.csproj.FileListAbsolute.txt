@@ -3,3 +3,5 @@ C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\bin\CheckoutServ
 C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\obj\Debug\CheckoutService.csprojResolveAssemblyReference.cache
 C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\obj\Debug\CheckoutService.dll
 C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\obj\Debug\CheckoutService.pdb
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\bin\CheckoutLogic.dll
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\bin\CheckoutLogic.pdb

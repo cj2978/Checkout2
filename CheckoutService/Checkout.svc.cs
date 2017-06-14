@@ -1,4 +1,5 @@
 ﻿using System;
+using CheckoutLogic;
 
 namespace CheckoutService
 {
@@ -8,7 +9,7 @@ namespace CheckoutService
     {
         public void Scan(string item)
         {
-            throw new NotImplementedException();
+            Checkout.ScanItem(item);
         }
 
         public int GetTotalPrice()
