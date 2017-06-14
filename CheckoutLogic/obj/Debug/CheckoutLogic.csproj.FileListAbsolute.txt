@@ -1,0 +1,4 @@
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutLogic\bin\Debug\CheckoutLogic.dll
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutLogic\bin\Debug\CheckoutLogic.pdb
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutLogic\obj\Debug\CheckoutLogic.dll
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutLogic\obj\Debug\CheckoutLogic.pdb

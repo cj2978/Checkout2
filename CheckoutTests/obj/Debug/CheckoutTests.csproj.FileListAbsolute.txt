@@ -1,0 +1,8 @@
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutTests\bin\Debug\CheckoutTests.dll.config
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutTests\bin\Debug\CheckoutTests.dll
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutTests\bin\Debug\CheckoutTests.pdb
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutTests\bin\Debug\nunit.framework.dll
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutTests\bin\Debug\nunit.framework.xml
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutTests\obj\Debug\CheckoutTests.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutTests\obj\Debug\CheckoutTests.dll
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutTests\obj\Debug\CheckoutTests.pdb
