@@ -3,3 +3,6 @@ C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\CheckoutLogic\bi
 C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\CheckoutLogic\obj\Debug\CheckoutLogic.csprojResolveAssemblyReference.cache
 C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\CheckoutLogic\obj\Debug\CheckoutLogic.dll
 C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\CheckoutLogic\obj\Debug\CheckoutLogic.pdb
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\CheckoutLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\CheckoutLogic\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\CheckoutLogic\bin\Debug\Newtonsoft.Json.xml

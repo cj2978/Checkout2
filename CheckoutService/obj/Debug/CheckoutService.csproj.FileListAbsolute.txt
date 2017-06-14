@@ -5,3 +5,6 @@ C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\obj\Debug\Checko
 C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\obj\Debug\CheckoutService.pdb
 C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\bin\CheckoutLogic.dll
 C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\bin\CheckoutLogic.pdb
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\bin\Newtonsoft.Json.dll
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\bin\Newtonsoft.Json.pdb
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\bin\Newtonsoft.Json.xml
