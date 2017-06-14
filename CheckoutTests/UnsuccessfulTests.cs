@@ -16,6 +16,10 @@ namespace CheckoutTests
                 var proxy = new CheckoutClient();
 
                 proxy.Scan(scanValues);
+
+                proxy.GetTotalPrice();
+
+                throw new Exception("Error was expected, however no error thrown");
             }
             catch (Exception e)
             {
