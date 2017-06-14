@@ -6,3 +6,4 @@ C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\CheckoutLogic\ob
 C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\CheckoutLogic\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\CheckoutLogic\bin\Debug\Newtonsoft.Json.pdb
 C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\CheckoutLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\CheckoutLogic\bin\Debug\prices.json

@@ -8,3 +8,4 @@ C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\bin\CheckoutLogi
 C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\bin\Newtonsoft.Json.dll
 C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\bin\Newtonsoft.Json.pdb
 C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\bin\Newtonsoft.Json.xml
+C:\Users\Christopher\Documents\GitHub\Checkout2\CheckoutService\bin\prices.json

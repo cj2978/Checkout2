@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
 
@@ -33,6 +34,11 @@ namespace CheckoutLogic
 
             var total = 0;
 
+            foreach (char key in _items.Keys)
+            {
+                total = total + GetItemTotal(key.ToString(), _items[key]);
+            }
+
             return total;
         }
 
@@ -42,6 +48,28 @@ namespace CheckoutLogic
             {
                 _pricelist = JsonConvert.DeserializeObject<List<Price>>(reader.ReadToEnd());
             }
+        }
+
+        private static int GetItemTotal(string sKU, int qty)
+        {
+            var itemTotal = 0;
+
+            Price itemDetails = _pricelist.Find(x => x.SKU == sKU);
+
+            if (itemDetails != null)
+            {
+                int specialPriceMultiplier = itemDetails.SpecialPriceQty > 0 ? qty / itemDetails.SpecialPriceQty : 0;
+                int standardPriceMultiplier = qty - (specialPriceMultiplier * itemDetails.SpecialPriceQty);
+
+                itemTotal = (specialPriceMultiplier * itemDetails.SpecialPriceAmount) + (standardPriceMultiplier * itemDetails.UnitPrice);
+            }
+            else
+            {
+                string message = string.Format("The SKU {0} is not a valid value", sKU);
+                throw new Exception(message);
+            }
+
+            return itemTotal;
         }
     }
 }
